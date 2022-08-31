@@ -1,0 +1,172 @@
+{
+  "ID": "004ba997-95a8-4970-a8d3-e8afb3a26f40",
+  "Version": "2.3.4",
+  "Name": "GeneralCardUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 81,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Assets/card/card_background_1.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 38,
+            "Scale9OriginY": 54,
+            "Scale9Width": 42,
+            "Scale9Height": 56,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -118.0,
+            "TopMargin": -164.0,
+            "Tag": 82,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/card/card_monster_assassin.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 49,
+                "Scale9OriginY": 55,
+                "Scale9Width": 53,
+                "Scale9Height": 57,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 59.0,
+                  "Y": 82.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 84,
+                "ActionTag": 652361971,
+                "Size": {
+                  "X": 118.0,
+                  "Y": 164.0
+                },
+                "Name": "avatar",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/card/card_border_1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 45,
+                "Scale9OriginY": 61,
+                "Scale9Width": 48,
+                "Scale9Height": 64,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 59.0,
+                  "Y": 82.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.1695,
+                  "Y": 1.1341
+                },
+                "LeftMargin": -10.0,
+                "RightMargin": -10.0,
+                "TopMargin": -11.0,
+                "BottomMargin": -11.0,
+                "Tag": 83,
+                "ActionTag": 1541103024,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 186.0
+                },
+                "Name": "border",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 234644916,
+            "Size": {
+              "X": 118.0,
+              "Y": 164.0
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Card",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Assets/card/card_background_1.png",
+        "Assets/card/card_border_1.png",
+        "Assets/card/card_monster_assassin.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

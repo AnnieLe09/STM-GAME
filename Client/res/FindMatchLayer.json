@@ -1,0 +1,506 @@
+{
+  "ID": "a0f4f1c9-142e-4af2-9da5-d6fa968d2f07",
+  "Version": "2.3.4",
+  "Name": "FindMatchLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Assets/lobby/lobby_background.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 568.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.3312,
+              "Y": 1.1629
+            },
+            "LeftMargin": -106.0,
+            "RightMargin": -106.0,
+            "TopMargin": -92.5,
+            "BottomMargin": -92.5,
+            "Tag": 4,
+            "ActionTag": 1246667412,
+            "Size": {
+              "X": 852.0,
+              "Y": 1321.0
+            },
+            "Name": "background",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 25,
+            "ButtonText": "HỦY BỎ",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/SVN-Supercell Magic.ttf",
+              "Plist": ""
+            },
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Assets/common/common_btn_red.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 164,
+            "Scale9Height": 89,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 340.8
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3
+            },
+            "PreSize": {
+              "X": 0.3031,
+              "Y": 0.0977
+            },
+            "LeftMargin": 223.0,
+            "RightMargin": 223.0,
+            "TopMargin": 739.7,
+            "BottomMargin": 285.3,
+            "Tag": 9,
+            "ActionTag": 1074374858,
+            "Size": {
+              "X": 194.0,
+              "Y": 111.0
+            },
+            "Name": "btn_cancel",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Assets/common/common_tooltip_box.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 50
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 33,
+            "Scale9OriginY": 33,
+            "Scale9Width": 34,
+            "Scale9Height": 34,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 113.6
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1
+            },
+            "PreSize": {
+              "X": 0.9531,
+              "Y": 0.088
+            },
+            "LeftMargin": 15.0,
+            "RightMargin": 15.0,
+            "TopMargin": 972.4,
+            "BottomMargin": 63.6,
+            "Tag": 10,
+            "Children": [
+              {
+                "FontSize": 19,
+                "LabelText": "Hệ thống sẽ tìm đối thủ có cùng mức danh vọng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/SVN-Supercell Magic.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 305.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 51,
+                  "G": 211,
+                  "B": 51
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0525,
+                  "Y": 0.26
+                },
+                "LeftMargin": -16.0,
+                "RightMargin": -16.0,
+                "TopMargin": 37.0,
+                "BottomMargin": 37.0,
+                "Tag": 12,
+                "ActionTag": -760058145,
+                "Size": {
+                  "X": 642.0,
+                  "Y": 26.0
+                },
+                "Name": "txt_bottom",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1830386784,
+            "Size": {
+              "X": 610.0,
+              "Y": 100.0
+            },
+            "Name": "pnl_bottom",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 1045.12
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.92
+            },
+            "PreSize": {
+              "X": 1.3281,
+              "Y": 0.1761
+            },
+            "LeftMargin": -105.0,
+            "RightMargin": -105.0,
+            "TopMargin": -9.12,
+            "BottomMargin": 945.12,
+            "Tag": 13,
+            "Children": [
+              {
+                "FontSize": 30,
+                "LabelText": "Đang tìm đối thủ...",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/SVN-Supercell Magic.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.5,
+                  "Y": 100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 49,
+                  "G": 178,
+                  "B": 231
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.45,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4682,
+                  "Y": 0.205
+                },
+                "LeftMargin": 183.5,
+                "RightMargin": 268.5,
+                "TopMargin": 79.5,
+                "BottomMargin": 79.5,
+                "Tag": 15,
+                "ActionTag": 1554253405,
+                "Size": {
+                  "X": 398.0,
+                  "Y": 41.0
+                },
+                "Name": "txt_head",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/common/common_icon_glass.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 663.0,
+                  "Y": 95.033
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.78,
+                  "Y": 0.4752
+                },
+                "PreSize": {
+                  "X": 0.1224,
+                  "Y": 0.655
+                },
+                "LeftMargin": 611.0,
+                "RightMargin": 135.0,
+                "TopMargin": 39.467,
+                "BottomMargin": 29.533,
+                "Tag": 14,
+                "ActionTag": -2133850643,
+                "Size": {
+                  "X": 104.0,
+                  "Y": 131.0
+                },
+                "Name": "common_icon_glass_1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1905979489,
+            "Size": {
+              "X": 850.0,
+              "Y": 200.0
+            },
+            "Name": "pnl_head",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Assets/common/common_arena_forest.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 647.52
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.57
+            },
+            "PreSize": {
+              "X": 0.9453,
+              "Y": 0.5563
+            },
+            "LeftMargin": 17.5,
+            "RightMargin": 17.5,
+            "TopMargin": 172.48,
+            "BottomMargin": 331.52,
+            "Tag": 9,
+            "ActionTag": -2125732922,
+            "Size": {
+              "X": 605.0,
+              "Y": 632.0
+            },
+            "Name": "common_arena_forest_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "FindMatchLayer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Assets/common/common_arena_forest.png",
+        "Assets/common/common_btn_red.png",
+        "Assets/common/common_icon_glass.png",
+        "Assets/common/common_tooltip_box.png",
+        "Assets/lobby/lobby_background.png",
+        "Default/Button_Disable.png",
+        "Default/Button_Press.png",
+        "fonts/SVN-Supercell Magic.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

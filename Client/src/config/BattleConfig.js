@@ -1,0 +1,15 @@
+GC.BATTLE = {
+    INIT_HP: 20,
+    INIT_ENERGY: 15,
+    TICK_PER_SECOND: 60,
+    SECOND_PER_ROUND: 20,
+    TICK_PER_MONSTER: 60,
+    ROUND_NUM: 20,
+    CARD_IN_HAND: 4,
+    ENERGY_WHEN_LOSE_HP: 10,
+    RESULT_MSG:{
+        WIN:1,
+        DRAW: 0,
+        LOSE: -1
+    }
+};

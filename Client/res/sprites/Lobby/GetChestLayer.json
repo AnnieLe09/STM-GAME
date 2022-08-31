@@ -1,0 +1,894 @@
+{
+  "ID": "be27281e-797f-4543-abb9-108514be563f",
+  "Version": "2.3.4",
+  "Name": "GetChestLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 50,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Resources/lobby_background.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 281,
+            "Scale9OriginY": 435,
+            "Scale9Width": 290,
+            "Scale9Height": 451,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.0,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 51,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 640.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8
+                },
+                "PreSize": {
+                  "X": 0.6667,
+                  "Y": 0.125
+                },
+                "LeftMargin": 80.0,
+                "RightMargin": 80.0,
+                "TopMargin": 110.0,
+                "BottomMargin": 590.0,
+                "Tag": 52,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Resources/card_background_3.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 38,
+                    "Scale9OriginY": 54,
+                    "Scale9Width": 42,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 50.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1563,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3125,
+                      "Y": 1.0
+                    },
+                    "RightMargin": 220.0,
+                    "Tag": 53,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Resources/card_tower_cannon.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 38,
+                        "Scale9OriginY": 54,
+                        "Scale9Width": 42,
+                        "Scale9Height": 56,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 55,
+                        "ActionTag": -1638973104,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 100.0
+                        },
+                        "Name": "avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Resources/card_border_3.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 45,
+                        "Scale9OriginY": 61,
+                        "Scale9Width": 49,
+                        "Scale9Height": 64,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 54,
+                        "ActionTag": -1430828195,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 100.0
+                        },
+                        "Name": "rewardBorder",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "x12",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Resources/SVN-Supercell Magic.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 68.4409,
+                          "Y": 22.8138
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6844,
+                          "Y": 0.2281
+                        },
+                        "PreSize": {
+                          "X": 0.41,
+                          "Y": 0.27
+                        },
+                        "LeftMargin": 47.9409,
+                        "RightMargin": 11.0591,
+                        "TopMargin": 63.6862,
+                        "BottomMargin": 9.3138,
+                        "Tag": 56,
+                        "ActionTag": 1986117319,
+                        "Size": {
+                          "X": 41.0,
+                          "Y": 27.0
+                        },
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1580960670,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "reward1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Resources/card_background_3.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 38,
+                    "Scale9OriginY": 54,
+                    "Scale9Width": 42,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 160.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3125,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 110.0,
+                    "RightMargin": 110.0,
+                    "Tag": 57,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Resources/card_tower_cannon.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 38,
+                        "Scale9OriginY": 54,
+                        "Scale9Width": 42,
+                        "Scale9Height": 56,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 58,
+                        "ActionTag": -364509062,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 100.0
+                        },
+                        "Name": "avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Resources/card_border_3.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 45,
+                        "Scale9OriginY": 61,
+                        "Scale9Width": 49,
+                        "Scale9Height": 64,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 59,
+                        "ActionTag": -1773391227,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 100.0
+                        },
+                        "Name": "rewardBorder",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "x12",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Resources/SVN-Supercell Magic.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 68.4409,
+                          "Y": 22.8138
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6844,
+                          "Y": 0.2281
+                        },
+                        "PreSize": {
+                          "X": 0.41,
+                          "Y": 0.27
+                        },
+                        "LeftMargin": 47.9409,
+                        "RightMargin": 11.0591,
+                        "TopMargin": 63.6862,
+                        "BottomMargin": 9.3138,
+                        "Tag": 60,
+                        "ActionTag": -2013135400,
+                        "Size": {
+                          "X": 41.0,
+                          "Y": 27.0
+                        },
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 305313989,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "reward2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Resources/card_background_3.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 38,
+                    "Scale9OriginY": 54,
+                    "Scale9Width": 42,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 270.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.8438,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3125,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 220.0,
+                    "Tag": 61,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Resources/lobby_shop_item_gold_1.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 38,
+                        "Scale9OriginY": 21,
+                        "Scale9Width": 43,
+                        "Scale9Height": 24,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 35.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.7,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.35
+                        },
+                        "PreSize": {
+                          "X": 1.19,
+                          "Y": 0.66
+                        },
+                        "LeftMargin": -9.5,
+                        "RightMargin": -9.5,
+                        "TopMargin": 32.0,
+                        "BottomMargin": 2.0,
+                        "Tag": 62,
+                        "ActionTag": -427429679,
+                        "Size": {
+                          "X": 119.0,
+                          "Y": 66.0
+                        },
+                        "Name": "avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Resources/card_border_3.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 45,
+                        "Scale9OriginY": 61,
+                        "Scale9Width": 49,
+                        "Scale9Height": 64,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 63,
+                        "ActionTag": -1405378861,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 100.0
+                        },
+                        "Name": "rewardBorder",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "12",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Resources/SVN-Supercell Magic.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 75.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.75
+                        },
+                        "PreSize": {
+                          "X": 0.26,
+                          "Y": 0.27
+                        },
+                        "LeftMargin": 37.0,
+                        "RightMargin": 37.0,
+                        "TopMargin": 11.5,
+                        "BottomMargin": 61.5,
+                        "Tag": 64,
+                        "ActionTag": -1233781054,
+                        "Size": {
+                          "X": 26.0,
+                          "Y": 27.0
+                        },
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1589229061,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "reward3",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1060500871,
+                "Size": {
+                  "X": 320.0,
+                  "Y": 100.0
+                },
+                "Name": "rewardsPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Resources/common_btn_green.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Resources/common_btn_green.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 164,
+                "Scale9Height": 89,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 102.1777
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1277
+                },
+                "PreSize": {
+                  "X": 0.4042,
+                  "Y": 0.1388
+                },
+                "LeftMargin": 143.0,
+                "RightMargin": 143.0,
+                "TopMargin": 642.3223,
+                "BottomMargin": 46.6777,
+                "Tag": 66,
+                "Children": [
+                  {
+                    "FontSize": 20,
+                    "LabelText": "Đồng Ý",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Resources/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 30,
+                      "G": 218,
+                      "B": 30
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 97.0,
+                      "Y": 55.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5464,
+                      "Y": 0.2613
+                    },
+                    "LeftMargin": 44.0,
+                    "RightMargin": 44.0,
+                    "TopMargin": 41.0,
+                    "BottomMargin": 41.0,
+                    "Tag": 67,
+                    "ActionTag": -122468442,
+                    "Size": {
+                      "X": 106.0,
+                      "Y": 29.0
+                    },
+                    "Name": "btnLabel",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -533739299,
+                "Size": {
+                  "X": 194.0,
+                  "Y": 111.0
+                },
+                "Name": "btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 240.0,
+                  "Y": 282.712
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3534
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 240.0,
+                "RightMargin": 240.0,
+                "TopMargin": 517.288,
+                "BottomMargin": 282.712,
+                "Tag": 65,
+                "ActionTag": -2023436847,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "anim",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 1400939864,
+            "Size": {
+              "X": 480.0,
+              "Y": 800.0
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 480.0,
+          "Y": 800.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Resources/card_background_3.png",
+        "Resources/card_border_3.png",
+        "Resources/card_tower_cannon.png",
+        "Resources/common_btn_green.png",
+        "Resources/lobby_background.png",
+        "Resources/lobby_shop_item_gold_1.png",
+        "Resources/SVN-Supercell Magic.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

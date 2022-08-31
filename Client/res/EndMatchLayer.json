@@ -1,0 +1,3589 @@
+{
+  "ID": "b90ccf8a-2270-47e2-b564-b50c7695ed9a",
+  "Version": "2.3.4",
+  "Name": "EndMatchLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 100,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.45
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.6
+            },
+            "TopMargin": 200.0,
+            "BottomMargin": 120.0,
+            "Tag": 101,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {},
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 480.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 0.7292,
+                  "Y": 0.3125
+                },
+                "LeftMargin": 65.0,
+                "RightMargin": 65.0,
+                "TopMargin": 0.0,
+                "BottomMargin": 330.0,
+                "Tag": 29,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentHeightEnable": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.3429,
+                      "Y": 1.0
+                    },
+                    "RightMargin": 230.0,
+                    "Tag": 30,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "LabelText": "winner!!!!!!",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 140.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.9333
+                        },
+                        "PreSize": {
+                          "X": 0.9333,
+                          "Y": 0.14
+                        },
+                        "LeftMargin": 4.0,
+                        "RightMargin": 4.0,
+                        "TopMargin": -0.5,
+                        "BottomMargin": 129.5,
+                        "Tag": 31,
+                        "ActionTag": -1558175094,
+                        "Size": {
+                          "X": 112.0,
+                          "Y": 21.0
+                        },
+                        "Name": "player0Name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Assets/common/avatar.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 422,
+                        "Scale9OriginY": 481,
+                        "Scale9Width": 436,
+                        "Scale9Height": 498,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 75.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8333,
+                          "Y": 0.6667
+                        },
+                        "LeftMargin": 10.0,
+                        "RightMargin": 10.0,
+                        "TopMargin": 25.0,
+                        "BottomMargin": 25.0,
+                        "Tag": 32,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Assets/common/common_avatar_border.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 44,
+                            "Scale9OriginY": 48,
+                            "Scale9Width": 47,
+                            "Scale9Height": 50,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 50.0,
+                              "Y": 50.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PercentWidthEnable": true,
+                            "PercentHeightEnable": true,
+                            "PercentWidthEnabled": true,
+                            "PercentHeightEnabled": true,
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "Tag": 33,
+                            "ActionTag": -297577810,
+                            "Size": {
+                              "X": 100.0,
+                              "Y": 100.0
+                            },
+                            "Name": "player0Border",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": 563887210,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 100.0
+                        },
+                        "Name": "player0Avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Assets/battle_result/battle_result_health_box.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 28,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 29,
+                        "Scale9Height": 13,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.6667,
+                          "Y": 0.1667
+                        },
+                        "LeftMargin": 20.0,
+                        "RightMargin": 20.0,
+                        "TopMargin": 125.0,
+                        "Tag": 34,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Assets/battle/art_battle/battle_icon_house.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 18,
+                            "Scale9OriginY": 26,
+                            "Scale9Width": 20,
+                            "Scale9Height": 27,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 12.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.25,
+                              "Y": 1.2
+                            },
+                            "RightMargin": 60.0,
+                            "TopMargin": -2.5,
+                            "BottomMargin": -2.5,
+                            "Tag": 35,
+                            "ActionTag": -2030841297,
+                            "Size": {
+                              "X": 20.0,
+                              "Y": 30.0
+                            },
+                            "Name": "icon",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "LabelText": "133",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 65.0,
+                              "Y": 12.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8125,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4125,
+                              "Y": 0.84
+                            },
+                            "LeftMargin": 32.0,
+                            "RightMargin": 15.0,
+                            "TopMargin": 2.0,
+                            "BottomMargin": 2.0,
+                            "Tag": 36,
+                            "ActionTag": 249068891,
+                            "Size": {
+                              "X": 33.0,
+                              "Y": 21.0
+                            },
+                            "Name": "player0HpTxt",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 1769994192,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 25.0
+                        },
+                        "Name": "player0Hp",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1346614054,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 150.0
+                    },
+                    "Name": "player0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0
+                    },
+                    "Position": {
+                      "X": 350.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.0
+                    },
+                    "PercentHeightEnable": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.3429,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 230.0,
+                    "Tag": 37,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "LabelText": "loser!!!!!!",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 140.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 127,
+                          "G": 127,
+                          "B": 127
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.9333
+                        },
+                        "PreSize": {
+                          "X": 0.7667,
+                          "Y": 0.14
+                        },
+                        "LeftMargin": 14.0,
+                        "RightMargin": 14.0,
+                        "TopMargin": -0.5,
+                        "BottomMargin": 129.5,
+                        "Tag": 38,
+                        "ActionTag": 914647830,
+                        "Size": {
+                          "X": 92.0,
+                          "Y": 21.0
+                        },
+                        "Name": "player1Name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Assets/common/avatar.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 422,
+                        "Scale9OriginY": 481,
+                        "Scale9Width": 436,
+                        "Scale9Height": 498,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 75.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8333,
+                          "Y": 0.6667
+                        },
+                        "LeftMargin": 10.0,
+                        "RightMargin": 10.0,
+                        "TopMargin": 25.0,
+                        "BottomMargin": 25.0,
+                        "Tag": 39,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Assets/battle/art_battle/battle_result_avatar_border_loser.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 44,
+                            "Scale9OriginY": 48,
+                            "Scale9Width": 47,
+                            "Scale9Height": 50,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 50.0,
+                              "Y": 50.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PercentWidthEnable": true,
+                            "PercentHeightEnable": true,
+                            "PercentWidthEnabled": true,
+                            "PercentHeightEnabled": true,
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "Tag": 40,
+                            "ActionTag": -244576546,
+                            "Size": {
+                              "X": 100.0,
+                              "Y": 100.0
+                            },
+                            "Name": "player1Border",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": -565968405,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 100.0
+                        },
+                        "Name": "player1Avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Assets/battle_result/battle_result_health_box.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 28,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 29,
+                        "Scale9Height": 13,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.6667,
+                          "Y": 0.1667
+                        },
+                        "LeftMargin": 20.0,
+                        "RightMargin": 20.0,
+                        "TopMargin": 125.0,
+                        "Tag": 41,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Assets/battle/art_battle/battle_icon_house.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 18,
+                            "Scale9OriginY": 26,
+                            "Scale9Width": 20,
+                            "Scale9Height": 27,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 12.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.25,
+                              "Y": 1.2
+                            },
+                            "RightMargin": 60.0,
+                            "TopMargin": -2.5,
+                            "BottomMargin": -2.5,
+                            "Tag": 42,
+                            "ActionTag": -1648345525,
+                            "Size": {
+                              "X": 20.0,
+                              "Y": 30.0
+                            },
+                            "Name": "icon",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "LabelText": "132",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 65.0,
+                              "Y": 12.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8125,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4,
+                              "Y": 0.84
+                            },
+                            "LeftMargin": 33.0,
+                            "RightMargin": 15.0,
+                            "TopMargin": 2.0,
+                            "BottomMargin": 2.0,
+                            "Tag": 43,
+                            "ActionTag": 1077413618,
+                            "Size": {
+                              "X": 32.0,
+                              "Y": 21.0
+                            },
+                            "Name": "player1HpTxt",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -1392876655,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 25.0
+                        },
+                        "Name": "player1Hp",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1272284919,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 150.0
+                    },
+                    "Name": "player1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Assets/battle/art_battle/battle_result_icon_swords_win.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 33,
+                    "Scale9Width": 35,
+                    "Scale9Height": 34,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 175.0,
+                      "Y": 75.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2829,
+                      "Y": 0.6667
+                    },
+                    "LeftMargin": 125.5,
+                    "RightMargin": 125.5,
+                    "TopMargin": 25.0,
+                    "BottomMargin": 25.0,
+                    "Tag": 44,
+                    "ActionTag": 1981240410,
+                    "Size": {
+                      "X": 99.0,
+                      "Y": 100.0
+                    },
+                    "Name": "battleIcon",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 2002526208,
+                "Size": {
+                  "X": 350.0,
+                  "Y": 150.0
+                },
+                "Name": "playersPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/battle/art_battle/battle_result_reward_box.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 110,
+                "Scale9OriginY": 18,
+                "Scale9Width": 114,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 200.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4167
+                },
+                "PreSize": {
+                  "X": 0.4583,
+                  "Y": 0.0937
+                },
+                "LeftMargin": 130.0,
+                "RightMargin": 130.0,
+                "TopMargin": 257.5,
+                "BottomMargin": 177.5,
+                "Tag": 45,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Assets/lobby/treasure/common_treasure_tutorial.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 42,
+                    "Scale9OriginY": 42,
+                    "Scale9Width": 44,
+                    "Scale9Height": 44,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 57.0031,
+                      "Y": 34.0029
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6563,
+                      "ScaleY": 0.6563
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2591,
+                      "Y": 0.7556
+                    },
+                    "PreSize": {
+                      "X": 0.5818,
+                      "Y": 2.8444
+                    },
+                    "LeftMargin": -6.9969,
+                    "RightMargin": 98.9969,
+                    "TopMargin": -53.0029,
+                    "BottomMargin": -29.9971,
+                    "Tag": 46,
+                    "ActionTag": -68815092,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 128.0
+                    },
+                    "Name": "chest",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Assets/common/common_icon_trophy_small.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 15,
+                    "Scale9Width": 20,
+                    "Scale9Height": 17,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 127.002,
+                      "Y": 22.5
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5714,
+                      "ScaleY": 0.5714
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5773,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2545,
+                      "Y": 1.0444
+                    },
+                    "LeftMargin": 99.002,
+                    "RightMargin": 64.998,
+                    "TopMargin": -1.0,
+                    "BottomMargin": -1.0,
+                    "Tag": 47,
+                    "ActionTag": -26766990,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 47.0
+                    },
+                    "Name": "cupIcon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "+10",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 167.0,
+                      "Y": 22.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7591,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1636,
+                      "Y": 0.5333
+                    },
+                    "LeftMargin": 149.0,
+                    "RightMargin": 35.0,
+                    "TopMargin": 10.5,
+                    "BottomMargin": 10.5,
+                    "Tag": 48,
+                    "ActionTag": 1985939688,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 24.0
+                    },
+                    "Name": "trophyTxt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 716452002,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 45.0
+                },
+                "Name": "reward",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/common/common_btn_gray.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/common/common_btn_blue.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/common/common_btn_blue.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 164,
+                "Scale9Height": 89,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 70.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1458
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.1667
+                },
+                "LeftMargin": 165.0,
+                "RightMargin": 165.0,
+                "TopMargin": 370.0,
+                "BottomMargin": 30.0,
+                "Tag": 49,
+                "Children": [
+                  {
+                    "FontSize": 20,
+                    "LabelText": "Về Nhà",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6667,
+                      "Y": 0.3625
+                    },
+                    "LeftMargin": 25.0,
+                    "RightMargin": 25.0,
+                    "TopMargin": 25.5,
+                    "BottomMargin": 25.5,
+                    "Tag": 50,
+                    "ActionTag": 180665821,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 29.0
+                    },
+                    "Name": "btnLabel",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 111281025,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 80.0
+                },
+                "Name": "homeBtn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1376817077,
+            "Size": {
+              "X": 480.0,
+              "Y": 480.0
+            },
+            "Name": "winnerBg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.45
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.6
+            },
+            "TopMargin": 200.0,
+            "BottomMargin": 120.0,
+            "Tag": 25,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {},
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 480.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 0.7292,
+                  "Y": 0.3125
+                },
+                "LeftMargin": 65.0,
+                "RightMargin": 65.0,
+                "TopMargin": 0.0,
+                "BottomMargin": 330.0,
+                "Tag": 26,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentHeightEnable": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.3429,
+                      "Y": 1.0
+                    },
+                    "RightMargin": 230.0,
+                    "Tag": 27,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "LabelText": "winner!!!!!!",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 140.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.9333
+                        },
+                        "PreSize": {
+                          "X": 0.9333,
+                          "Y": 0.14
+                        },
+                        "LeftMargin": 4.0,
+                        "RightMargin": 4.0,
+                        "TopMargin": -0.5,
+                        "BottomMargin": 129.5,
+                        "Tag": 28,
+                        "ActionTag": -823328347,
+                        "Size": {
+                          "X": 112.0,
+                          "Y": 21.0
+                        },
+                        "Name": "player0Name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Assets/common/avatar.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 422,
+                        "Scale9OriginY": 481,
+                        "Scale9Width": 436,
+                        "Scale9Height": 498,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 75.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8333,
+                          "Y": 0.6667
+                        },
+                        "LeftMargin": 10.0,
+                        "RightMargin": 10.0,
+                        "TopMargin": 25.0,
+                        "BottomMargin": 25.0,
+                        "Tag": 29,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Assets/common/common_avatar_border.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 44,
+                            "Scale9OriginY": 48,
+                            "Scale9Width": 47,
+                            "Scale9Height": 50,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 50.0,
+                              "Y": 50.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PercentWidthEnable": true,
+                            "PercentHeightEnable": true,
+                            "PercentWidthEnabled": true,
+                            "PercentHeightEnabled": true,
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "Tag": 30,
+                            "ActionTag": -1963885184,
+                            "Size": {
+                              "X": 100.0,
+                              "Y": 100.0
+                            },
+                            "Name": "player0Border",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": 697366613,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 100.0
+                        },
+                        "Name": "player0Avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Assets/battle_result/battle_result_health_box.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 28,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 29,
+                        "Scale9Height": 13,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.6667,
+                          "Y": 0.1667
+                        },
+                        "LeftMargin": 20.0,
+                        "RightMargin": 20.0,
+                        "TopMargin": 125.0,
+                        "Tag": 31,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Assets/battle/art_battle/battle_icon_house.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 18,
+                            "Scale9OriginY": 26,
+                            "Scale9Width": 20,
+                            "Scale9Height": 27,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 12.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.25,
+                              "Y": 1.2
+                            },
+                            "RightMargin": 60.0,
+                            "TopMargin": -2.5,
+                            "BottomMargin": -2.5,
+                            "Tag": 32,
+                            "ActionTag": 575072410,
+                            "Size": {
+                              "X": 20.0,
+                              "Y": 30.0
+                            },
+                            "Name": "icon",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "LabelText": "133",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 65.0,
+                              "Y": 12.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8125,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4125,
+                              "Y": 0.84
+                            },
+                            "LeftMargin": 32.0,
+                            "RightMargin": 15.0,
+                            "TopMargin": 2.0,
+                            "BottomMargin": 2.0,
+                            "Tag": 33,
+                            "ActionTag": 2125365030,
+                            "Size": {
+                              "X": 33.0,
+                              "Y": 21.0
+                            },
+                            "Name": "player0HpTxt",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -1953602364,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 25.0
+                        },
+                        "Name": "player0Hp",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 921168257,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 150.0
+                    },
+                    "Name": "player0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0
+                    },
+                    "Position": {
+                      "X": 350.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.0
+                    },
+                    "PercentHeightEnable": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.3429,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 230.0,
+                    "Tag": 34,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "LabelText": "winner!!!!!!",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 140.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.9333
+                        },
+                        "PreSize": {
+                          "X": 0.9333,
+                          "Y": 0.14
+                        },
+                        "LeftMargin": 4.0,
+                        "RightMargin": 4.0,
+                        "TopMargin": -0.5,
+                        "BottomMargin": 129.5,
+                        "Tag": 35,
+                        "ActionTag": -747488576,
+                        "Size": {
+                          "X": 112.0,
+                          "Y": 21.0
+                        },
+                        "Name": "player1Name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Assets/common/avatar.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 422,
+                        "Scale9OriginY": 481,
+                        "Scale9Width": 436,
+                        "Scale9Height": 498,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 75.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8333,
+                          "Y": 0.6667
+                        },
+                        "LeftMargin": 10.0,
+                        "RightMargin": 10.0,
+                        "TopMargin": 25.0,
+                        "BottomMargin": 25.0,
+                        "Tag": 36,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Assets/common/common_avatar_border.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 44,
+                            "Scale9OriginY": 48,
+                            "Scale9Width": 47,
+                            "Scale9Height": 50,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 50.0,
+                              "Y": 50.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PercentWidthEnable": true,
+                            "PercentHeightEnable": true,
+                            "PercentWidthEnabled": true,
+                            "PercentHeightEnabled": true,
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "Tag": 37,
+                            "ActionTag": 936783546,
+                            "Size": {
+                              "X": 100.0,
+                              "Y": 100.0
+                            },
+                            "Name": "player1Border",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": -2106015051,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 100.0
+                        },
+                        "Name": "player1Avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Assets/battle_result/battle_result_health_box.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 28,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 29,
+                        "Scale9Height": 13,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.6667,
+                          "Y": 0.1667
+                        },
+                        "LeftMargin": 20.0,
+                        "RightMargin": 20.0,
+                        "TopMargin": 125.0,
+                        "Tag": 38,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Assets/battle/art_battle/battle_icon_house.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 18,
+                            "Scale9OriginY": 26,
+                            "Scale9Width": 20,
+                            "Scale9Height": 27,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 12.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.25,
+                              "Y": 1.2
+                            },
+                            "RightMargin": 60.0,
+                            "TopMargin": -2.5,
+                            "BottomMargin": -2.5,
+                            "Tag": 39,
+                            "ActionTag": 1699545595,
+                            "Size": {
+                              "X": 20.0,
+                              "Y": 30.0
+                            },
+                            "Name": "icon",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "LabelText": "133",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 65.0,
+                              "Y": 12.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8125,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4125,
+                              "Y": 0.84
+                            },
+                            "LeftMargin": 32.0,
+                            "RightMargin": 15.0,
+                            "TopMargin": 2.0,
+                            "BottomMargin": 2.0,
+                            "Tag": 40,
+                            "ActionTag": -172081079,
+                            "Size": {
+                              "X": 33.0,
+                              "Y": 21.0
+                            },
+                            "Name": "player1HpTxt",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -1548319,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 25.0
+                        },
+                        "Name": "player1Hp",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1674847196,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 150.0
+                    },
+                    "Name": "player1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Assets/battle/art_battle/battle_result_icon_swords_draw.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 33,
+                    "Scale9Width": 35,
+                    "Scale9Height": 31,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 175.0,
+                      "Y": 75.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2829,
+                      "Y": 0.6467
+                    },
+                    "LeftMargin": 125.5,
+                    "RightMargin": 125.5,
+                    "TopMargin": 26.5,
+                    "BottomMargin": 26.5,
+                    "Tag": 41,
+                    "ActionTag": 1645640238,
+                    "Size": {
+                      "X": 99.0,
+                      "Y": 97.0
+                    },
+                    "Name": "battleIcon",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -33035195,
+                "Size": {
+                  "X": 350.0,
+                  "Y": 150.0
+                },
+                "Name": "playersPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/battle/art_battle/battle_result_reward_box.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 110,
+                "Scale9OriginY": 18,
+                "Scale9Width": 114,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 200.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4167
+                },
+                "PreSize": {
+                  "X": 0.4583,
+                  "Y": 0.0937
+                },
+                "LeftMargin": 130.0,
+                "RightMargin": 130.0,
+                "TopMargin": 257.5,
+                "BottomMargin": 177.5,
+                "Tag": 42,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Assets/common/common_icon_trophy_small.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 15,
+                    "Scale9Width": 20,
+                    "Scale9Height": 17,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 88.0,
+                      "Y": 22.5
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5714,
+                      "ScaleY": 0.5714
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2545,
+                      "Y": 1.0444
+                    },
+                    "LeftMargin": 60.0,
+                    "RightMargin": 104.0,
+                    "TopMargin": -1.0,
+                    "BottomMargin": -1.0,
+                    "Tag": 44,
+                    "ActionTag": -1095117020,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 47.0
+                    },
+                    "Name": "cupIcon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "+0",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 121.0,
+                      "Y": 22.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.55,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1273,
+                      "Y": 0.5333
+                    },
+                    "LeftMargin": 107.0,
+                    "RightMargin": 85.0,
+                    "TopMargin": 10.5,
+                    "BottomMargin": 10.5,
+                    "Tag": 45,
+                    "ActionTag": 1194874273,
+                    "Size": {
+                      "X": 28.0,
+                      "Y": 24.0
+                    },
+                    "Name": "trophyTxt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1135186793,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 45.0
+                },
+                "Name": "reward",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/common/common_btn_gray.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/common/common_btn_blue.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/common/common_btn_blue.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 164,
+                "Scale9Height": 89,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 70.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1458
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.1667
+                },
+                "LeftMargin": 165.0,
+                "RightMargin": 165.0,
+                "TopMargin": 370.0,
+                "BottomMargin": 30.0,
+                "Tag": 46,
+                "Children": [
+                  {
+                    "FontSize": 20,
+                    "LabelText": "Về Nhà",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6667,
+                      "Y": 0.3625
+                    },
+                    "LeftMargin": 25.0,
+                    "RightMargin": 25.0,
+                    "TopMargin": 25.5,
+                    "BottomMargin": 25.5,
+                    "Tag": 47,
+                    "ActionTag": -2005196174,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 29.0
+                    },
+                    "Name": "btnLabel",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1156344648,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 80.0
+                },
+                "Name": "homeBtn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1121385419,
+            "Size": {
+              "X": 480.0,
+              "Y": 480.0
+            },
+            "VisibleForFrame": false,
+            "Name": "drawBg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.45
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.6
+            },
+            "TopMargin": 200.0,
+            "BottomMargin": 120.0,
+            "Tag": 48,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {},
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 480.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 0.7292,
+                  "Y": 0.3125
+                },
+                "LeftMargin": 65.0,
+                "RightMargin": 65.0,
+                "TopMargin": 0.0,
+                "BottomMargin": 330.0,
+                "Tag": 49,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentHeightEnable": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.3429,
+                      "Y": 1.0
+                    },
+                    "RightMargin": 230.0,
+                    "Tag": 50,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "LabelText": "loser!!!!!!",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 140.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 191,
+                          "G": 191,
+                          "B": 191
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.9333
+                        },
+                        "PreSize": {
+                          "X": 0.7667,
+                          "Y": 0.14
+                        },
+                        "LeftMargin": 14.0,
+                        "RightMargin": 14.0,
+                        "TopMargin": -0.5,
+                        "BottomMargin": 129.5,
+                        "Tag": 51,
+                        "ActionTag": -970248804,
+                        "Size": {
+                          "X": 92.0,
+                          "Y": 21.0
+                        },
+                        "Name": "player0Name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Assets/common/avatar.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 422,
+                        "Scale9OriginY": 481,
+                        "Scale9Width": 436,
+                        "Scale9Height": 498,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 75.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8333,
+                          "Y": 0.6667
+                        },
+                        "LeftMargin": 10.0,
+                        "RightMargin": 10.0,
+                        "TopMargin": 25.0,
+                        "BottomMargin": 25.0,
+                        "Tag": 52,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Assets/battle/art_battle/battle_result_avatar_border_loser.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 44,
+                            "Scale9OriginY": 48,
+                            "Scale9Width": 47,
+                            "Scale9Height": 50,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 50.0,
+                              "Y": 50.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PercentWidthEnable": true,
+                            "PercentHeightEnable": true,
+                            "PercentWidthEnabled": true,
+                            "PercentHeightEnabled": true,
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "Tag": 53,
+                            "ActionTag": -1860914501,
+                            "Size": {
+                              "X": 100.0,
+                              "Y": 100.0
+                            },
+                            "Name": "player0Border",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": -2075540933,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 100.0
+                        },
+                        "Name": "player0Avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Assets/battle_result/battle_result_health_box.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 28,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 29,
+                        "Scale9Height": 13,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.6667,
+                          "Y": 0.1667
+                        },
+                        "LeftMargin": 20.0,
+                        "RightMargin": 20.0,
+                        "TopMargin": 125.0,
+                        "Tag": 54,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Assets/battle/art_battle/battle_icon_house.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 18,
+                            "Scale9OriginY": 26,
+                            "Scale9Width": 20,
+                            "Scale9Height": 27,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 12.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.25,
+                              "Y": 1.2
+                            },
+                            "RightMargin": 60.0,
+                            "TopMargin": -2.5,
+                            "BottomMargin": -2.5,
+                            "Tag": 55,
+                            "ActionTag": -264804556,
+                            "Size": {
+                              "X": 20.0,
+                              "Y": 30.0
+                            },
+                            "Name": "icon",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "LabelText": "132",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 65.0,
+                              "Y": 12.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8125,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4,
+                              "Y": 0.84
+                            },
+                            "LeftMargin": 33.0,
+                            "RightMargin": 15.0,
+                            "TopMargin": 2.0,
+                            "BottomMargin": 2.0,
+                            "Tag": 56,
+                            "ActionTag": 1110100816,
+                            "Size": {
+                              "X": 32.0,
+                              "Y": 21.0
+                            },
+                            "Name": "player0HpTxt",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -796600875,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 25.0
+                        },
+                        "Name": "player0Hp",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1672942533,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 150.0
+                    },
+                    "Name": "player0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0
+                    },
+                    "Position": {
+                      "X": 350.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.0
+                    },
+                    "PercentHeightEnable": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.3429,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 230.0,
+                    "Tag": 57,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "LabelText": "winner!!!!!!",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 140.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.9333
+                        },
+                        "PreSize": {
+                          "X": 0.9333,
+                          "Y": 0.14
+                        },
+                        "LeftMargin": 4.0,
+                        "RightMargin": 4.0,
+                        "TopMargin": -0.5,
+                        "BottomMargin": 129.5,
+                        "Tag": 58,
+                        "ActionTag": 889997293,
+                        "Size": {
+                          "X": 112.0,
+                          "Y": 21.0
+                        },
+                        "Name": "player1Name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Assets/common/avatar.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 422,
+                        "Scale9OriginY": 481,
+                        "Scale9Width": 436,
+                        "Scale9Height": 498,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 75.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8333,
+                          "Y": 0.6667
+                        },
+                        "LeftMargin": 10.0,
+                        "RightMargin": 10.0,
+                        "TopMargin": 25.0,
+                        "BottomMargin": 25.0,
+                        "Tag": 59,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Assets/common/common_avatar_border.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 44,
+                            "Scale9OriginY": 48,
+                            "Scale9Width": 47,
+                            "Scale9Height": 50,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 50.0,
+                              "Y": 50.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PercentWidthEnable": true,
+                            "PercentHeightEnable": true,
+                            "PercentWidthEnabled": true,
+                            "PercentHeightEnabled": true,
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "Tag": 60,
+                            "ActionTag": -1777962210,
+                            "Size": {
+                              "X": 100.0,
+                              "Y": 100.0
+                            },
+                            "Name": "player1Border",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": 807290534,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 100.0
+                        },
+                        "Name": "player1Avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Assets/battle_result/battle_result_health_box.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 28,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 29,
+                        "Scale9Height": 13,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5
+                        },
+                        "Position": {
+                          "X": 60.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.6667,
+                          "Y": 0.1667
+                        },
+                        "LeftMargin": 20.0,
+                        "RightMargin": 20.0,
+                        "TopMargin": 125.0,
+                        "Tag": 61,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Assets/battle/art_battle/battle_icon_house.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 18,
+                            "Scale9OriginY": 26,
+                            "Scale9Width": 20,
+                            "Scale9Height": 27,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 12.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.25,
+                              "Y": 1.2
+                            },
+                            "RightMargin": 60.0,
+                            "TopMargin": -2.5,
+                            "BottomMargin": -2.5,
+                            "Tag": 62,
+                            "ActionTag": 163204740,
+                            "Size": {
+                              "X": 20.0,
+                              "Y": 30.0
+                            },
+                            "Name": "icon",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "LabelText": "133",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 65.0,
+                              "Y": 12.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8125,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4125,
+                              "Y": 0.84
+                            },
+                            "LeftMargin": 32.0,
+                            "RightMargin": 15.0,
+                            "TopMargin": 2.0,
+                            "BottomMargin": 2.0,
+                            "Tag": 63,
+                            "ActionTag": 517133964,
+                            "Size": {
+                              "X": 33.0,
+                              "Y": 21.0
+                            },
+                            "Name": "player1HpTxt",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 626793269,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 25.0
+                        },
+                        "Name": "player1Hp",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -883667155,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 150.0
+                    },
+                    "Name": "player1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Assets/battle/art_battle/battle_result_icon_swords_lose.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 33,
+                    "Scale9Width": 35,
+                    "Scale9Height": 34,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 175.0,
+                      "Y": 75.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2829,
+                      "Y": 0.6667
+                    },
+                    "LeftMargin": 125.5,
+                    "RightMargin": 125.5,
+                    "TopMargin": 25.0,
+                    "BottomMargin": 25.0,
+                    "Tag": 64,
+                    "ActionTag": -1405696667,
+                    "Size": {
+                      "X": 99.0,
+                      "Y": 100.0
+                    },
+                    "Name": "battleIcon",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -525974211,
+                "Size": {
+                  "X": 350.0,
+                  "Y": 150.0
+                },
+                "Name": "playersPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/battle/art_battle/battle_result_reward_box.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 110,
+                "Scale9OriginY": 18,
+                "Scale9Width": 114,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 200.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4167
+                },
+                "PreSize": {
+                  "X": 0.4583,
+                  "Y": 0.0937
+                },
+                "LeftMargin": 130.0,
+                "RightMargin": 130.0,
+                "TopMargin": 257.5,
+                "BottomMargin": 177.5,
+                "Tag": 65,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Assets/common/common_icon_trophy_small.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 15,
+                    "Scale9Width": 20,
+                    "Scale9Height": 17,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 88.0,
+                      "Y": 22.5
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5714,
+                      "ScaleY": 0.5714
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2545,
+                      "Y": 1.0444
+                    },
+                    "LeftMargin": 60.0,
+                    "RightMargin": 104.0,
+                    "TopMargin": -1.0,
+                    "BottomMargin": -1.0,
+                    "Tag": 66,
+                    "ActionTag": 496652315,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 47.0
+                    },
+                    "Name": "cupIcon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "-10",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 121.0,
+                      "Y": 22.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.55,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.15,
+                      "Y": 0.5333
+                    },
+                    "LeftMargin": 104.5,
+                    "RightMargin": 82.5,
+                    "TopMargin": 10.5,
+                    "BottomMargin": 10.5,
+                    "Tag": 67,
+                    "ActionTag": 1205367761,
+                    "Size": {
+                      "X": 33.0,
+                      "Y": 24.0
+                    },
+                    "Name": "trophyTxt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 515505271,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 45.0
+                },
+                "Name": "reward",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/common/common_btn_gray.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/common/common_btn_blue.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Assets/common/common_btn_blue.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 164,
+                "Scale9Height": 89,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 70.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1458
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.1667
+                },
+                "LeftMargin": 165.0,
+                "RightMargin": 165.0,
+                "TopMargin": 370.0,
+                "BottomMargin": 30.0,
+                "Tag": 68,
+                "Children": [
+                  {
+                    "FontSize": 20,
+                    "LabelText": "Về Nhà",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Assets/font/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6667,
+                      "Y": 0.3625
+                    },
+                    "LeftMargin": 25.0,
+                    "RightMargin": 25.0,
+                    "TopMargin": 25.5,
+                    "BottomMargin": 25.5,
+                    "Tag": 69,
+                    "ActionTag": 1704513047,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 29.0
+                    },
+                    "Name": "btnLabel",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1725438938,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 80.0
+                },
+                "Name": "homeBtn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -109698056,
+            "Size": {
+              "X": 480.0,
+              "Y": 480.0
+            },
+            "VisibleForFrame": false,
+            "Name": "loserBg",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 480.0,
+          "Y": 800.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Assets/battle/art_battle/battle_icon_house.png",
+        "Assets/battle/art_battle/battle_result_avatar_border_loser.png",
+        "Assets/battle/art_battle/battle_result_icon_swords_draw.png",
+        "Assets/battle/art_battle/battle_result_icon_swords_lose.png",
+        "Assets/battle/art_battle/battle_result_icon_swords_win.png",
+        "Assets/battle/art_battle/battle_result_reward_box.png",
+        "Assets/battle_result/battle_result_health_box.png",
+        "Assets/common/avatar.png",
+        "Assets/common/common_avatar_border.png",
+        "Assets/common/common_btn_blue.png",
+        "Assets/common/common_btn_gray.png",
+        "Assets/common/common_icon_trophy_small.png",
+        "Assets/font/SVN-Supercell Magic.ttf",
+        "Assets/lobby/treasure/common_treasure_tutorial.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

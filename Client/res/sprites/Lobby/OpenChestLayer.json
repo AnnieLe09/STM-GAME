@@ -1,0 +1,1550 @@
+{
+  "ID": "93754a43-815b-4464-a9e5-1a2e7c369da2",
+  "Version": "2.3.4",
+  "Name": "OpenChestLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 39,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 40,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Resources/common_panel_background.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 149,
+                "Scale9OriginY": 129,
+                "Scale9Width": 155,
+                "Scale9Height": 135,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4
+                },
+                "PercentWidthEnable": true,
+                "PercentWidthEnabled": true,
+                "PreSize": {
+                  "X": 0.9,
+                  "Y": 0.4913
+                },
+                "LeftMargin": 24.0,
+                "RightMargin": 24.0,
+                "TopMargin": 283.5,
+                "BottomMargin": 123.5,
+                "Tag": 42,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Resources/common_panel_btn_close.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Resources/common_panel_btn_close.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 17,
+                    "Scale9Height": 25,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 393.9429,
+                      "Y": 357.2971
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9119,
+                      "Y": 0.9092
+                    },
+                    "PreSize": {
+                      "X": 0.1088,
+                      "Y": 0.1196
+                    },
+                    "LeftMargin": 370.4429,
+                    "RightMargin": 14.5571,
+                    "TopMargin": 12.2029,
+                    "BottomMargin": 333.7971,
+                    "Tag": 43,
+                    "ActionTag": -275427656,
+                    "Size": {
+                      "X": 47.0,
+                      "Y": 47.0
+                    },
+                    "Name": "exitBtn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "Rừng Thiêng",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Resources/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 216.0,
+                      "Y": 330.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8397
+                    },
+                    "PreSize": {
+                      "X": 0.419,
+                      "Y": 0.0738
+                    },
+                    "LeftMargin": 125.5,
+                    "RightMargin": 125.5,
+                    "TopMargin": 48.4998,
+                    "BottomMargin": 315.5002,
+                    "Tag": 44,
+                    "ActionTag": 8433822,
+                    "Size": {
+                      "X": 181.0,
+                      "Y": 29.0
+                    },
+                    "Name": "nameLabel",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 216.0,
+                      "Y": 353.7
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9
+                    },
+                    "PreSize": {
+                      "X": 0.463,
+                      "Y": 0.5089
+                    },
+                    "LeftMargin": 116.0,
+                    "RightMargin": 116.0,
+                    "TopMargin": -160.7,
+                    "BottomMargin": 353.7,
+                    "Tag": 46,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Resources/common_treasure_pedestal.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 111,
+                        "Scale9OriginY": 56,
+                        "Scale9Width": 116,
+                        "Scale9Height": 60,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.6,
+                          "ScaleY": 0.6
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.0
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PreSize": {
+                          "X": 1.69,
+                          "Y": 0.86
+                        },
+                        "LeftMargin": -69.0,
+                        "RightMargin": -69.0,
+                        "TopMargin": 28.0,
+                        "Tag": 47,
+                        "ActionTag": 468940797,
+                        "Size": {
+                          "X": 338.0,
+                          "Y": 172.0
+                        },
+                        "Name": "chestDeck",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Resources/common_treasure_tutorial.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 42,
+                        "Scale9OriginY": 42,
+                        "Scale9Width": 44,
+                        "Scale9Height": 44,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 94.0,
+                          "Y": 101.9997
+                        },
+                        "Scale": {
+                          "ScaleX": 1.5,
+                          "ScaleY": 1.5
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.47,
+                          "Y": 0.51
+                        },
+                        "PreSize": {
+                          "X": 0.64,
+                          "Y": 0.64
+                        },
+                        "LeftMargin": 30.0,
+                        "RightMargin": 42.0,
+                        "TopMargin": 34.0003,
+                        "BottomMargin": 37.9997,
+                        "Tag": 48,
+                        "ActionTag": 1053810186,
+                        "Size": {
+                          "X": 128.0,
+                          "Y": 128.0
+                        },
+                        "Name": "chestImg",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 594420024,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "Name": "avatar",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Resources/common_panel_front.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 139,
+                    "Scale9OriginY": 112,
+                    "Scale9Width": 146,
+                    "Scale9Height": 118,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 216.0,
+                      "Y": 210.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0618
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5344
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PreSize": {
+                      "X": 0.95,
+                      "Y": 0.4326
+                    },
+                    "LeftMargin": 10.8,
+                    "RightMargin": 10.8,
+                    "TopMargin": 97.9998,
+                    "BottomMargin": 125.0002,
+                    "Tag": 50,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Resources/lobby_treasure_info_box.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 76,
+                        "Scale9OriginY": 16,
+                        "Scale9Width": 80,
+                        "Scale9Height": 17,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 30.0,
+                          "Y": 126.7778
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0731,
+                          "Y": 0.7458
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PreSize": {
+                          "X": 0.4,
+                          "Y": 0.1765
+                        },
+                        "LeftMargin": 30.0,
+                        "RightMargin": 216.24,
+                        "TopMargin": 28.2222,
+                        "BottomMargin": 111.7778,
+                        "Tag": 55,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Resources/common_icon_gold.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 29,
+                            "Scale9OriginY": 35,
+                            "Scale9Width": 30,
+                            "Scale9Height": 38,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 15.0
+                            },
+                            "Scale": {
+                              "ScaleX": 0.4,
+                              "ScaleY": 0.4
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5361,
+                              "Y": 3.6
+                            },
+                            "RightMargin": 76.16,
+                            "TopMargin": -39.0,
+                            "BottomMargin": -39.0,
+                            "Tag": 56,
+                            "ActionTag": 694737556,
+                            "Size": {
+                              "X": 88.0,
+                              "Y": 108.0
+                            },
+                            "Name": "goldIcon",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 11,
+                            "LabelText": "Vàng",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Resources/SVN-Supercell Magic.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 39.0,
+                              "Y": 33.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.2376,
+                              "Y": 1.1
+                            },
+                            "PreSize": {
+                              "X": 0.2558,
+                              "Y": 0.5667
+                            },
+                            "LeftMargin": 39.0,
+                            "RightMargin": 83.16,
+                            "TopMargin": -11.5,
+                            "BottomMargin": 24.5,
+                            "Tag": 57,
+                            "ActionTag": 1533027904,
+                            "Size": {
+                              "X": 42.0,
+                              "Y": 17.0
+                            },
+                            "Name": "goldLabel",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "LabelText": "10-20",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Resources/SVN-Supercell Magic.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 39.0,
+                              "Y": 15.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.2376,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.335,
+                              "Y": 0.7
+                            },
+                            "LeftMargin": 39.0,
+                            "RightMargin": 70.16,
+                            "TopMargin": 4.5,
+                            "BottomMargin": 4.5,
+                            "Tag": 58,
+                            "ActionTag": -42286418,
+                            "Size": {
+                              "X": 55.0,
+                              "Y": 21.0
+                            },
+                            "Name": "goldValue",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -460888525,
+                        "Size": {
+                          "X": 164.16,
+                          "Y": 30.0
+                        },
+                        "Name": "goldBg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Resources/lobby_treasure_info_box.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 76,
+                        "Scale9OriginY": 16,
+                        "Scale9Width": 80,
+                        "Scale9Height": 17,
+                        "AnchorPoint": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 380.9303,
+                          "Y": 126.7778
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9282,
+                          "Y": 0.7458
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PreSize": {
+                          "X": 0.4,
+                          "Y": 0.1765
+                        },
+                        "LeftMargin": 216.7703,
+                        "RightMargin": 29.4697,
+                        "TopMargin": 28.2222,
+                        "BottomMargin": 111.7778,
+                        "Tag": 59,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Resources/common_icon_card_multiple.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 29,
+                            "Scale9OriginY": 35,
+                            "Scale9Width": 50,
+                            "Scale9Height": 36,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -7.0,
+                              "Y": 15.0
+                            },
+                            "Scale": {
+                              "ScaleX": 0.4,
+                              "ScaleY": 0.4
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": -0.0426,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.6579,
+                              "Y": 3.5333
+                            },
+                            "LeftMargin": -7.0,
+                            "RightMargin": 63.16,
+                            "TopMargin": -38.0,
+                            "BottomMargin": -38.0,
+                            "Tag": 60,
+                            "ActionTag": -285437082,
+                            "Size": {
+                              "X": 108.0,
+                              "Y": 106.0
+                            },
+                            "Name": "cardIcon",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 11,
+                            "LabelText": "Thẻ",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Resources/SVN-Supercell Magic.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 39.0,
+                              "Y": 33.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.2376,
+                              "Y": 1.1
+                            },
+                            "PreSize": {
+                              "X": 0.201,
+                              "Y": 0.5667
+                            },
+                            "LeftMargin": 39.0,
+                            "RightMargin": 92.16,
+                            "TopMargin": -11.5,
+                            "BottomMargin": 24.5,
+                            "Tag": 61,
+                            "ActionTag": -1722049235,
+                            "Size": {
+                              "X": 33.0,
+                              "Y": 17.0
+                            },
+                            "Name": "cardLabel",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "LabelText": "x10-20",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Resources/SVN-Supercell Magic.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 39.0,
+                              "Y": 15.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 58,
+                              "G": 189,
+                              "B": 224
+                            },
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.2376,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4081,
+                              "Y": 0.7
+                            },
+                            "LeftMargin": 39.0,
+                            "RightMargin": 58.16,
+                            "TopMargin": 4.5,
+                            "BottomMargin": 4.5,
+                            "Tag": 62,
+                            "ActionTag": 1890158509,
+                            "Size": {
+                              "X": 67.0,
+                              "Y": 21.0
+                            },
+                            "Name": "cardValue",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 1787012104,
+                        "Size": {
+                          "X": 164.16,
+                          "Y": 30.0
+                        },
+                        "Name": "cardBg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5
+                        },
+                        "Position": {
+                          "X": 205.2,
+                          "Y": 51.7775
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.3046
+                        },
+                        "PreSize": {
+                          "X": 0.5604,
+                          "Y": 0.2941
+                        },
+                        "LeftMargin": 90.2,
+                        "RightMargin": 90.2,
+                        "TopMargin": 68.2225,
+                        "BottomMargin": 51.7775,
+                        "Tag": 63,
+                        "Children": [
+                          {
+                            "FontSize": 18,
+                            "LabelText": "Loại thẻ: ",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Resources/SVN-Avo bold.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 25.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 102,
+                              "G": 78,
+                              "B": 15
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.3217,
+                              "Y": 0.5
+                            },
+                            "RightMargin": 156.0,
+                            "TopMargin": 12.5,
+                            "BottomMargin": 12.5,
+                            "Tag": 64,
+                            "ActionTag": -105828112,
+                            "Size": {
+                              "X": 74.0,
+                              "Y": 25.0
+                            },
+                            "Name": "typeLabel",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Resources/common_icon_card_multiple_2.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 35,
+                            "Scale9OriginY": 34,
+                            "Scale9Width": 38,
+                            "Scale9Height": 38,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 101.1387,
+                              "Y": 23.0
+                            },
+                            "Scale": {
+                              "ScaleX": 0.4,
+                              "ScaleY": 0.4
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.4397,
+                              "Y": 0.46
+                            },
+                            "PreSize": {
+                              "X": 0.4696,
+                              "Y": 2.12
+                            },
+                            "LeftMargin": 47.1387,
+                            "RightMargin": 74.8613,
+                            "TopMargin": -26.0,
+                            "BottomMargin": -30.0,
+                            "Tag": 65,
+                            "ActionTag": -1323665213,
+                            "Size": {
+                              "X": 108.0,
+                              "Y": 106.0
+                            },
+                            "Name": "typeImg1",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Resources/common_icon_card_multiple_1.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 35,
+                            "Scale9OriginY": 34,
+                            "Scale9Width": 38,
+                            "Scale9Height": 38,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 152.4029,
+                              "Y": 23.0
+                            },
+                            "Scale": {
+                              "ScaleX": 0.4,
+                              "ScaleY": 0.4
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6626,
+                              "Y": 0.46
+                            },
+                            "PreSize": {
+                              "X": 0.4696,
+                              "Y": 2.12
+                            },
+                            "LeftMargin": 98.4029,
+                            "RightMargin": 23.5971,
+                            "TopMargin": -26.0,
+                            "BottomMargin": -30.0,
+                            "Tag": 66,
+                            "ActionTag": 964618729,
+                            "Size": {
+                              "X": 108.0,
+                              "Y": 106.0
+                            },
+                            "Name": "typeImg2",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Resources/common_icon_card_multiple_4.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 35,
+                            "Scale9OriginY": 34,
+                            "Scale9Width": 38,
+                            "Scale9Height": 38,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 202.8567,
+                              "Y": 23.0
+                            },
+                            "Scale": {
+                              "ScaleX": 0.4,
+                              "ScaleY": 0.4
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.882,
+                              "Y": 0.46
+                            },
+                            "PreSize": {
+                              "X": 0.4696,
+                              "Y": 2.12
+                            },
+                            "LeftMargin": 148.8567,
+                            "RightMargin": -26.8567,
+                            "TopMargin": -26.0,
+                            "BottomMargin": -30.0,
+                            "Tag": 67,
+                            "ActionTag": -134392225,
+                            "Size": {
+                              "X": 108.0,
+                              "Y": 106.0
+                            },
+                            "Name": "typeImg3",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": -2126552954,
+                        "Size": {
+                          "X": 230.0,
+                          "Y": 50.0
+                        },
+                        "Name": "cardTypePanel",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Resources/lobby_treasure_info_box.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 76,
+                        "Scale9OriginY": 16,
+                        "Scale9Width": 80,
+                        "Scale9Height": 17,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5
+                        },
+                        "Position": {
+                          "X": 205.2,
+                          "Y": 15.0001
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.0882
+                        },
+                        "PreSize": {
+                          "X": 0.4873,
+                          "Y": 0.1765
+                        },
+                        "LeftMargin": 105.2,
+                        "RightMargin": 105.2,
+                        "TopMargin": 124.9999,
+                        "BottomMargin": 15.0001,
+                        "Tag": 69,
+                        "Children": [
+                          {
+                            "FontSize": 12,
+                            "LabelText": "Thời gian mở:",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Resources/SVN-Avo bold.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 10.0,
+                              "Y": 15.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.05,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.43,
+                              "Y": 0.6333
+                            },
+                            "LeftMargin": 10.0,
+                            "RightMargin": 104.0,
+                            "TopMargin": 5.5,
+                            "BottomMargin": 5.5,
+                            "Tag": 70,
+                            "ActionTag": -1419907627,
+                            "Size": {
+                              "X": 86.0,
+                              "Y": 19.0
+                            },
+                            "Name": "timeLabel",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "LabelText": "3h",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Resources/SVN-Supercell Magic.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 100.8933,
+                              "Y": 15.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 37,
+                              "G": 218,
+                              "B": 37
+                            },
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5045,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.14,
+                              "Y": 0.7
+                            },
+                            "LeftMargin": 100.8933,
+                            "RightMargin": 71.1067,
+                            "TopMargin": 4.5,
+                            "BottomMargin": 4.5,
+                            "Tag": 71,
+                            "ActionTag": 1031375910,
+                            "Size": {
+                              "X": 28.0,
+                              "Y": 21.0
+                            },
+                            "Name": "timeValue",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -1822034341,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 30.0
+                        },
+                        "Name": "timeBg",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1959160477,
+                    "Size": {
+                      "X": 410.4,
+                      "Y": 170.0
+                    },
+                    "Name": "itemsPanel",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Resources/common_btn_green.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Resources/common_btn_green.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 164,
+                    "Scale9Height": 89,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 216.0,
+                      "Y": 30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.0763
+                    },
+                    "PreSize": {
+                      "X": 0.3241,
+                      "Y": 0.2036
+                    },
+                    "LeftMargin": 146.0,
+                    "RightMargin": 146.0,
+                    "TopMargin": 283.0,
+                    "BottomMargin": 30.0,
+                    "Tag": 51,
+                    "Children": [
+                      {
+                        "FontSize": 12,
+                        "LabelText": "Mở Rương",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Resources/SVN-Supercell Magic.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 70.0,
+                          "Y": 56.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.7
+                        },
+                        "PreSize": {
+                          "X": 0.6429,
+                          "Y": 0.225
+                        },
+                        "LeftMargin": 25.0,
+                        "RightMargin": 25.0,
+                        "TopMargin": 15.0,
+                        "BottomMargin": 47.0,
+                        "Tag": 52,
+                        "ActionTag": 1901997024,
+                        "Size": {
+                          "X": 90.0,
+                          "Y": 18.0
+                        },
+                        "Name": "openLabel",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Resources/common_icon_g_small.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 18,
+                        "Scale9OriginY": 20,
+                        "Scale9Width": 19,
+                        "Scale9Height": 23,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.2282,
+                          "Y": 32.448
+                        },
+                        "Scale": {
+                          "ScaleX": 0.4,
+                          "ScaleY": 0.4
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3302,
+                          "Y": 0.4056
+                        },
+                        "PreSize": {
+                          "X": 0.3929,
+                          "Y": 0.7875
+                        },
+                        "LeftMargin": 18.7282,
+                        "RightMargin": 66.2718,
+                        "TopMargin": 16.052,
+                        "BottomMargin": 0.948,
+                        "Tag": 53,
+                        "ActionTag": 1865016541,
+                        "Size": {
+                          "X": 55.0,
+                          "Y": 63.0
+                        },
+                        "Name": "gemIcon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "LabelText": "18",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Resources/SVN-Supercell Magic.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 58.4572,
+                          "Y": 31.5211
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4176,
+                          "Y": 0.394
+                        },
+                        "PreSize": {
+                          "X": 0.1714,
+                          "Y": 0.2625
+                        },
+                        "LeftMargin": 58.4572,
+                        "RightMargin": 57.5428,
+                        "TopMargin": 37.9789,
+                        "BottomMargin": 21.0211,
+                        "Tag": 54,
+                        "ActionTag": 516695904,
+                        "Size": {
+                          "X": 24.0,
+                          "Y": 21.0
+                        },
+                        "Name": "chestValue",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -169878112,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 80.0
+                    },
+                    "Name": "openBtn",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -1686217073,
+                "Size": {
+                  "X": 432.0,
+                  "Y": 393.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1942060606,
+            "Size": {
+              "X": 480.0,
+              "Y": 800.0
+            },
+            "Name": "darkTheme",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 480.0,
+          "Y": 800.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Resources/common_btn_green.png",
+        "Resources/common_icon_card_multiple.png",
+        "Resources/common_icon_card_multiple_1.png",
+        "Resources/common_icon_card_multiple_2.png",
+        "Resources/common_icon_card_multiple_4.png",
+        "Resources/common_icon_g_small.png",
+        "Resources/common_icon_gold.png",
+        "Resources/common_panel_background.png",
+        "Resources/common_panel_btn_close.png",
+        "Resources/common_panel_front.png",
+        "Resources/common_treasure_pedestal.png",
+        "Resources/common_treasure_tutorial.png",
+        "Resources/lobby_treasure_info_box.png",
+        "Resources/SVN-Avo bold.ttf",
+        "Resources/SVN-Supercell Magic.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

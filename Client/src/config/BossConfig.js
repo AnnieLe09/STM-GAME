@@ -1,0 +1,26 @@
+GC.BOSS = {}
+
+GC.BOSS.ATTACK = {
+    NORMAL: 0,
+    ONLY: 1,
+    NO_ATTACK: 2,
+}
+
+GC.BOSS.SKILL = {
+    NO_SKILL: 0,
+    DEMON_TREE: 1,
+    DESERT_KING: 2,
+    ICE_MAN: 3,
+    GOLEM: 4,
+    MOC_TINH: 5,
+}
+
+GC.BOSS.DEMON_TREE = {
+    HP_RATE: 0.03,
+    RANGE: 2,
+}
+
+GC.BOSS.MOC_TINH = {
+    MAX_MINION: 5,
+    TIME_TO_RELEASE: 120,
+}
