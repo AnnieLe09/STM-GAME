@@ -1,0 +1,115 @@
+{
+  "potion": {
+    "0": {
+      "name": "fireball",
+      "energy": 8,
+      "map": 0,
+      "action": {
+        "type": "instant",
+        "duration": -1
+      },
+      "radius": 1.2,
+      "adjust": {
+        "player": {
+          "type": "damage",
+          "value": 50
+        }
+      },
+      "adjustUseCardLevel": true,
+      "range": 0.8
+    },
+    "1": {
+      "name": "frozen",
+      "energy": 8,
+      "map": 0,
+      "action": {
+        "type": "instant",
+        "duration": -1
+      },
+      "radius": 1.2,
+      "adjust": {
+        "player": {
+          "type": "targetBuffType",
+          "value": 2
+        },
+        "enemy": {
+          "type": "towerBuffType",
+          "value": 6
+        }
+      },
+      "range": 0.8
+    },
+    "2": {
+      "name": "heal",
+      "energy": 12,
+      "map": 1,
+      "action": {
+        "type": "field",
+        "durationType": "limited",
+        "duration": 3000,
+        "radius": 2.0
+      },
+      "adjust": {
+        "enemy": {
+          "type": "targetBuffType",
+          "value": 3
+        }
+      },
+      "range": 0.8
+    },
+    "3": {
+      "name": "speedUp",
+      "energy": 12,
+      "map": 1,
+      "action": {
+        "type": "field",
+        "durationType": "limited",
+        "duration": 3000,
+        "radius": 2.0
+      },
+      "adjust": {
+        "enemy": {
+          "type": "targetBuffType",
+          "value": 4
+        }
+      },
+      "range": 0.8
+    },
+    "4": {
+      "name": "trap",
+      "energy": 6,
+      "map": 0,
+      "action": {
+        "type": "field",
+        "durationType": "unlimited",
+        "duration": -1,
+        "radius": 2.0
+      },
+      "adjust": {
+        "enemy": {
+          "type": "targetBuffType",
+          "value": -1
+        }
+      },
+      "range": 0.2
+    },
+    "5": {
+      "name": "power",
+      "energy": 10,
+      "map": 0,
+      "action": {
+        "type": "field",
+        "durationType": "limited",
+        "duration": 3000,
+        "radius": 2.0
+      },
+      "adjust": {
+        "enemy": {
+          "type": "targetBuffType",
+          "value": 1.5
+        }
+      },
+      "range": 0.6
+    }
+  }
+}
